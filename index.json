@@ -1,0 +1,52 @@
+{
+    "projects":[{
+        "id": "1",
+        "name": "The Neurons Bazaar",
+        "imgSRC":"https://i.ibb.co/m6JrT7y/TNBpic-no-Bg.png",
+        "description": "This is the first full website I made using HTML and CSS. It was a fun process learning how to achieve certain features using the c=very basics of software design",
+        "netlify": "https://the-neuron-bazaar.netlify.app/",
+        "github":"https://github.com/NaeemaOmar/TheNeuronsBazaar"
+        
+    },
+    {
+        "id": "2",
+        "name": "JS Calculator",
+        "imgSRC":"https://i.ibb.co/vjjZN2k/blue-JSCalc.png",
+        "description": "For this exercise, I had to create a fully functioning calculator using javascript. It was a great exercise for learning the very basics of JS functionality.",
+        "netlify":"https://blue-js-calc.netlify.app/",
+        "github":"https://github.com/NaeemaOmar/JSCalculator"
+    },
+    {
+        "id": "3",
+        "name": "BMI Calculator",
+        "imgSRC":"https://i.ibb.co/0qMsLtP/BMICalculator-no-Bg.png",
+        "description": "Similar to the JS calculator task, this task was for practising JS functionality and more specifically, custom functions. This task also helped me learn time management given that it was a timed task.",
+        "netlify":"https://calc-body-mass-index.netlify.app/",
+        "github":"https://github.com/NaeemaOmar/BMICalculator"
+    },
+    {
+        "id": "4",
+        "name": "Hex to RGB converter",
+        "imgSRC":"https://i.ibb.co/C6R6yqZ/Hex-To-Rgb-no-Bg.png",
+        "description": "The above activity was to combine the basic JS functionality we practiced in previous tasks with more advanced array manipulations. Creating a function that performs the math of hex to RGB was fun.",
+        "netlify":"https://hex-to-redgreenblue.netlify.app/",
+        "github":"https://github.com/NaeemaOmar/HexRGBConverter"
+    },
+    {
+        "id": "5",
+        "name": "My first portfolio",
+        "imgSRC":"https://i.ibb.co/V0Fy8tb/first-Portfolio-no-Bg.png",
+        "description": "The first digital portfolio I made as an aspiring full-stack developer using HTML, CSS and bootstrap only. While my inexperience does show, I am very proud of how far I came in just 6 weeks.",
+        "netlify":"https://naeema-omar.netlify.app/",
+        "github":"https://github.com/NaeemaOmar/MyPortfolio"
+    },
+    {
+        "id": "6",
+        "name": "JS e-Commerce site",
+        "imgSRC":"https://i.ibb.co/tbkc4bH/JS-EOMP-no-Bg.png",
+        "description": "The first fully functional e-commerce site I made. This was the end-of-module project we were given after JS and uses HTML, CSS, Bootstrap and JS for aesthetics, functionality and responsivity.",
+        "netlify":"https://naeemaomar-js-eomp.netlify.app/",
+        "github":"https://github.com/NaeemaOmar/JS-EOMP"
+    }
+    ]
+}
